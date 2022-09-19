@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class doddle {
+public class work1 {
     static public void prog1 () {
         System.out.println("Prog1");
         double[] array = {1, 2, 3, 4, 5, 6};
@@ -66,9 +66,9 @@ public class doddle {
         System.out.println(finalNum);
     }
     public static void main(String[] args) {
-        prog1();
-        prog2();
-        prog3(args);
+        // prog1();
+        // prog2();
+        // prog3(args);
         prog4();
         prog5(5);
     }
