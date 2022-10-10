@@ -1,3 +1,4 @@
+package task1;
 import java.util.Scanner;
 public class work1 {
     static public void prog1 () {
