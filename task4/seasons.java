@@ -8,7 +8,7 @@ public class seasons {
             SUMMER(25),
             AUTUMN(3);
 
-            private double temperature;
+            private final double temperature;
             
             Season(double temperature) {
                 this.temperature = temperature;

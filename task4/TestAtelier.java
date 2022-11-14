@@ -65,7 +65,7 @@ abstract class Clothes {
     enum Gender {
         MALE,
         FEMALE,
-        BOTH;
+        BOTH
     }
 
     public Clothes(Size size, double price, String color) {
